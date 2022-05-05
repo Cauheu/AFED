@@ -10,7 +10,7 @@ predict the absolute values of financial characteristics and compare them for
 the selected data set. 
 
 # Data description
-RowNumber - corresponds to the record number (line) and does not affect the result. \\
+RowNumber - corresponds to the record number (line) and does not affect the result. \n
 CustomerId - contains random values and does not affect the result.\\
 Surname - the client's last name does not affect his decision to leave the bank.\\
 CreditScore - can affect the outflow of customers because the customer with a higher
